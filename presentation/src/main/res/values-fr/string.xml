@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panier</string>
+    <string name="loading">Chargement</string>
+    <string name="login">Connexion</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="don_t_have_an_account_sign_up">Vous n\'avez pas de compte ? Inscrivez-vous</string>
+    <string name="register">S\'inscrire</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="already_have_an_account_sign_in">Vous avez déjà un compte ? Connectez-vous</string>
+
+</resources>
